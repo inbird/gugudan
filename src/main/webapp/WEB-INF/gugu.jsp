@@ -7,7 +7,7 @@
 <body>
 
 <%
-    int num = 9;
+    int num = 4;
 %>
 <%=num%> 단을 출력합니다.
 <br><br><br>
