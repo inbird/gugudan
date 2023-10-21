@@ -50,7 +50,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>gugu</finalName>
+		<finalName>gugudan</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>

@@ -10,9 +10,7 @@ public class Home {
     @RequestMapping(value = "/")
     @ResponseBody
     public String init() {
-        System.out.println(
-
-                "HOME CLASS : init()");
+        System.out.println("HOME CLASS : init()");
         return "WELCOME PAGE!!!";
     }
 
